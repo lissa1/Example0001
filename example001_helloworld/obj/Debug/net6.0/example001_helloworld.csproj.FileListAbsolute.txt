@@ -1,0 +1,15 @@
+C:\Users\DNS\Desktop\examples\examples\example001_helloworld\bin\Debug\net6.0\example001_helloworld.exe
+C:\Users\DNS\Desktop\examples\examples\example001_helloworld\bin\Debug\net6.0\example001_helloworld.deps.json
+C:\Users\DNS\Desktop\examples\examples\example001_helloworld\bin\Debug\net6.0\example001_helloworld.runtimeconfig.json
+C:\Users\DNS\Desktop\examples\examples\example001_helloworld\bin\Debug\net6.0\example001_helloworld.dll
+C:\Users\DNS\Desktop\examples\examples\example001_helloworld\bin\Debug\net6.0\example001_helloworld.pdb
+C:\Users\DNS\Desktop\examples\examples\example001_helloworld\obj\Debug\net6.0\example001_helloworld.csproj.AssemblyReference.cache
+C:\Users\DNS\Desktop\examples\examples\example001_helloworld\obj\Debug\net6.0\example001_helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNS\Desktop\examples\examples\example001_helloworld\obj\Debug\net6.0\example001_helloworld.AssemblyInfoInputs.cache
+C:\Users\DNS\Desktop\examples\examples\example001_helloworld\obj\Debug\net6.0\example001_helloworld.AssemblyInfo.cs
+C:\Users\DNS\Desktop\examples\examples\example001_helloworld\obj\Debug\net6.0\example001_helloworld.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\examples\examples\example001_helloworld\obj\Debug\net6.0\example001_helloworld.dll
+C:\Users\DNS\Desktop\examples\examples\example001_helloworld\obj\Debug\net6.0\refint\example001_helloworld.dll
+C:\Users\DNS\Desktop\examples\examples\example001_helloworld\obj\Debug\net6.0\example001_helloworld.pdb
+C:\Users\DNS\Desktop\examples\examples\example001_helloworld\obj\Debug\net6.0\example001_helloworld.genruntimeconfig.cache
+C:\Users\DNS\Desktop\examples\examples\example001_helloworld\obj\Debug\net6.0\ref\example001_helloworld.dll
